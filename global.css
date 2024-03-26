@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-alfa-slab-one: "Alfa Slab One";
+  --font-inter: Inter;
+  --font-bungee-inline: "Bungee Inline";
+
+  /* font sizes */
+  --font-size-sm-1: 13.1px;
+  --font-size-sm-9: 13.9px;
+  --font-size-mini-9: 14.9px;
+  --font-size-17xl: 36px;
+  --font-size-13xl: 32px;
+  --font-size-53xl-4: 72.4px;
+  --font-size-21xl: 40px;
+  --font-size-base-9: 15.9px;
+  --font-size-32xl-7: 51.7px;
+  --font-size-lgi-8: 19.8px;
+  --font-size-xs-8: 11.8px;
+  --font-size-smi-9: 12.9px;
+  --font-size-2xs-2: 10.2px;
+  --font-size-smi-6: 12.6px;
+  --font-size-10xl-9: 29.9px;
+
+  /* Colors */
+  --color-gray-100: #110e19;
+  --color-gray-200: #05010d;
+  --color-gray-800: rgba(255, 255, 255, 0.15);
+  --color-gray-300: rgba(255, 255, 255, 0.05);
+  --color-gray-900: rgba(255, 255, 255, 0.4);
+  --color-gray-400: rgba(255, 255, 255, 0.6);
+  --color-gray-500: rgba(0, 0, 0, 0.05);
+  --color-gray-600: rgba(255, 255, 255, 0.9);
+  --color-gray-700: rgba(255, 255, 255, 0.1);
+  --color-white: #fff;
+  --color-black: #000;
+  --color-deepskyblue: #56c2ff;
+
+  /* Gaps */
+  --gap-base-5: 16.5px;
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-base-8: 16.8px;
+  --gap-xs-5: 11.5px;
+  --gap-xs: 12px;
+  --gap-4xl: 23px;
+
+  /* Paddings */
+  --padding-xs-1: 11.1px;
+  --padding-sm-9: 13.9px;
+  --padding-lgi-3: 19.3px;
+  --padding-72xl-8: 91.8px;
+  --padding-5xl-1: 24.1px;
+  --padding-3xs-7: 9.7px;
+  --padding-54xl-3: 73.3px;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-xs: 12px;
+  --br-mini: 15px;
+  --br-10xs: 3px;
+  --br-base: 16px;
+  --br-3xs: 10px;
+}
